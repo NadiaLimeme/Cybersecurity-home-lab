@@ -244,4 +244,26 @@ Future improvements may include:
 
 ## Project Structure
 
-The project is organised to keep the lab configuration, documentation, scripts, and reports e
+The project is organised to keep the lab configuration, documentation, scripts, and reports eeasy to manage.
+
+Folder       |               File Purpose
+README.md	 |    Project overview, setup, activities, and documentation
+documentation|	  Lab setup and troubleshooting documentation
+evidence 	 |    Screenshots and evidence collected during testing
+scripts 	 |    Python and other scripts used in the project
+
+The structure may be expanded as additional lab exercises are added.
+
+Disclaimer
+
+This project is intended for educational purposes and authorised security testing only.
+
+All vulnerability assessment and security testing activities are performed against intentionally vulnerable systems inside my private home lab.
+
+No testing is performed against systems, networks, applications, or devices without permission.
+
+Author
+
+Nadia Limeme
+
+Cybersecurity learner building practical skills through hands-on labs, security projects, and continuous learning.
